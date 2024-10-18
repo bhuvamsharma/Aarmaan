@@ -1,3 +1,3 @@
 # Aarmaan
-this is my first respository 
-Author - Bhuvam Sharma
+this is my first respository <br>
+Author - Bhuvam Sharma 
